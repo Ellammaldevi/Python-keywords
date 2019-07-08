@@ -1,0 +1,8 @@
+x = 9999
+print ("type of x is ", type(x))
+# float example
+y = 3.123
+print ("type of y is", type(y))
+#complex example
+z = 99 + 5j
+print ("type of z is", type(z))

@@ -1,0 +1,9 @@
+def function_return():
+    x = 60
+    return x
+
+def no_return():
+    x = 60
+
+print(function_return())
+print(no_return())

@@ -1,0 +1,7 @@
+
+x = [57, 22, 53]
+print ("This is the number list with all the value")
+print (x)
+del x[2]
+print ("This is the number list after deleting 2nd element")
+print (x)

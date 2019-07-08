@@ -1,0 +1,15 @@
+def CloseOrderBook():
+
+    print("Order book closed successfully")
+
+ 
+
+marketOpen = False
+
+ 
+if not marketOpen:
+
+    CloseOrderBook()
+
+    print("Market closed")
+

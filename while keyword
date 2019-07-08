@@ -1,0 +1,6 @@
+num = 10
+while num > 4:
+   print(num)
+   num = num-2
+else:
+   print("loop is finished")
